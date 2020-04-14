@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/zhictory/leonis) 
+
 # leonis
 
 这个项目利用 Github 和 jsDelivr 的服务搭建个人简单且免费的 CDN，用于存储图片、视频、字体等等资源。
